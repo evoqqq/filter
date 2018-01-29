@@ -1,2 +1,1 @@
-# filter
-TypeError: Cannot read property 'filter' of undefined
+Download the ZIP
